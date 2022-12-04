@@ -6,7 +6,7 @@ shape={
     'Y':2,
     'Z':3,
 }
-with open('input.txt') as f:
+with open('inputT.txt') as f:
     lines = [line.rstrip() for line in f]
 
 

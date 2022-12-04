@@ -1,5 +1,5 @@
-lines = []
-with open('input.txt') as f:
+
+with open('inputT.txt') as f:
     lines = [line.rstrip() for line in f]
 
 UPPER=ord('a')-ord('A')+26
